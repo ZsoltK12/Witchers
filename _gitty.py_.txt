@@ -1,3 +1,4 @@
 _introduce_ "Hello, we'are Geralt and Dandelion!"
 _add_
 _joke_
+_shout_
